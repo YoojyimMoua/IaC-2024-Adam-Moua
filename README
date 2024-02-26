@@ -1,0 +1,1 @@
+I was able to get the stack to create fine, but I was having a lot of issues trying to troubleshoot why I couldn't SSH into my EC2 instances. I've tried adjust my security group rules, but have had no luck.
